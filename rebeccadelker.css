@@ -2,7 +2,7 @@
 html,body{height:100%;width:100%;}
 
 body {
-	background-image: url("/Users/rebeccadelker/Desktop/Dropbox/rebeccadelker_web/background6_crop.jpg");
+	background-image: url("background6_crop.jpg");
 	background-size: cover;
 	background-position: left bottom;
 	background-repeat: no-repeat;
@@ -14,7 +14,7 @@ body {
 
 @font-face {
   font-family: daniel;
-  src: url("/Users/rebeccadelker/Desktop/Dropbox/rebeccadelker_web/daniel/daniel.ttf");
+  src: url("daniel.ttf");
 }
 
 #outer {
