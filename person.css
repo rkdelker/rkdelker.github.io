@@ -76,8 +76,7 @@
 }
 
 p a {
-	font-size: 25px;
-	font-weight: bold;
+	font-weight: bolder;
 	text-decoration: none;
 }
 
@@ -95,4 +94,35 @@ p a:hover {
 p a:active {
 	color: Gray;
 	text-decoration: none;
+}
+
+@media (max-width: 1024px) {
+
+  [class="col-md-12"] {
+      font-size: 60px;
+  }
+	
+  [class="col-md-8"] {
+      font-size: 15px;
+      padding-left: 15px;
+      padding-right; 15px;
+  }
+  
+
+}
+
+
+@media (max-width: 780px) {
+
+  [class="col-md-12"] {
+      font-size: 60px;
+  }
+	
+  [class="col-md-8"] {
+      font-size: 15px;
+      padding-left: 15px;
+      padding-right; 15px;
+  }
+  
+
 }
