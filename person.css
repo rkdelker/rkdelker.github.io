@@ -64,7 +64,7 @@
 	padding-top: 0px
 }
 
-.col-md-8 {
+.text-center {
 	
   text-align: center;
   font-family: courier;
@@ -73,23 +73,23 @@
   color: Gray;
 }
 
-p a {
+.text-center a {
 	font-weight: bolder;
 	text-decoration: none;
 }
 
-p a:visited {
+.text-center a:visited {
 	color: Gray;
 	text-decoration: none;
 }
 
-p a:hover {
+.text-center a:hover {
 	color: DarkSeaGreen;
 	background-color: honeydew;
 	text-decoration: none;
 }
 
-p a:active {
+.text-center a:active {
 	color: Gray;
 	text-decoration: none;
 }
