@@ -59,7 +59,7 @@
 	padding-top: 0px
 }
 
-.col-md-6 {
+.col-md-4 {
 	
   text-align: center;
   font-family: courier;
@@ -88,10 +88,12 @@ img:hover {
 }
 
 figcaption {
+	font-weight: bold;
 	position: relative;
 	top: 20px;
         bottom: 20px;
 	color: Gray;
+	vertical-align: bottom;
 }
 
 figcaption a {
